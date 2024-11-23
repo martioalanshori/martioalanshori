@@ -1,9 +1,10 @@
 ## Hi there, I'm Martio 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
-Once a front-end wizard waving my CSS wand, now I've turned into a back-end sorcerer, casting spells in Golang. When I'm not busy conjuring up APIs, you can find me dreaming about the next big tech breakthrough, or diving deep into the pages of a good book. Always up for a chat about code, the perfect brew of coffee, or the enigmatic mysteries of the universe. And remember, I code, therefore I am... usually in need of more coffee. ☕😄
+As a front-end developer, I spend my days weaving together stunning visuals and seamless functionality, and my evenings are dedicated to sketching out my next big design concept. I thrive on collaboration and love bouncing ideas off fellow tech enthusiasts. Outside of coding, I’m a board game aficionado and enjoy hosting game nights with friends. If you’re ever in need of a gaming partner or want to chat about the latest design trends, I’m your person! 🎮😁
 
-#### Lets connected with me
+
+#### Feel free to connect with me!
 <a href="https://www.linkedin.com/in/martioalanshori/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:martioalanshori@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/martioo19/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
