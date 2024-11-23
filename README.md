@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 Once a front-end wizard waving my CSS wand, now I've turned into a back-end sorcerer, casting spells in Golang. When I'm not busy conjuring up APIs, you can find me dreaming about the next big tech breakthrough, or diving deep into the pages of a good book. Always up for a chat about code, the perfect brew of coffee, or the enigmatic mysteries of the universe. And remember, I code, therefore I am... usually in need of more coffee. ☕😄
 
-#### - lets connected with me
+#### Lets connected with me
 <a href="https://www.linkedin.com/in/martioalanshori/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:martioalanshori@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/martioo19/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -24,9 +24,10 @@ Once a front-end wizard waving my CSS wand, now I've turned into a back-end sorc
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=martioalanshori&label=Profile%20views&color=0e75b6&style=flat" alt="martiolanshori" /> </p>
 
 <p align="start">
   <a href="https://github.com/martioalanshori">
